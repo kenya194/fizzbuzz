@@ -12,7 +12,7 @@ function fizzBuzz() {
         } else {
             num_collection.push("number");
         }
+        number++;
     }
-    number++;
     console.log(num_collection);
 }
